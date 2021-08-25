@@ -8,6 +8,7 @@ public class HelloGITs {
 		System.out.println("小可爱");
 		System.out.println("小猪猪");
 		System.out.println("gulugulugulu");
+		System.out.println("sss");
 
 	}
 
