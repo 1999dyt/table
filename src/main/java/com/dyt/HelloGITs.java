@@ -10,6 +10,7 @@ public class HelloGITs {
 		System.out.println("gulugulugulu");
 		System.out.println("sss");
 		System.out.println("xiufu");
+		System.out.println("主干开发");
 
 	}
 
